@@ -1,3 +1,4 @@
+import java.util.*;
 public class Hello{
 
 	public static void main(String[] args){
@@ -6,7 +7,12 @@ public class Hello{
 		for(int i = 0; i < 1000; i++) {
 			dd *= dd;
 		}
-		System.out.println(dd);
+		List list1 = new ArrayList();
+		int i = 0;
+		list1.add(i++);
+		list1.add(i++);
+		list1.add(i++);
+
 	}
 
 }
