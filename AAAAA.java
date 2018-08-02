@@ -1,4 +1,4 @@
-public class Hello1{
+public class AAAAA{
 
 	public static void main(String[] args){
 		System.out.println("Hello Git211qqqqq!");	
