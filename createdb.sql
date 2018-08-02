@@ -1,0 +1,1 @@
+SELECT * FROM tt WHERE id = 12
