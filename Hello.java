@@ -13,6 +13,7 @@ public class Hello{
 		list1.add(i++);
 		list1.add(i++);
 		list1.add(i++);
+		list1.ad
 	}
 
 }
